@@ -1,15 +1,19 @@
-# ytl
+<p align="center">
+  <a href="https://yarnpkg.com/" rel="nofollow">
+    <img alt="Yarn" src="https://github.com/yarnpkg/assets/raw/master/yarn-kitten-full.png?raw=true" width="175" style="max-width:100%;">
+  </a>
+	<h1 align="center">Task List</h1>
+</p>
 
-<!-- [![NPM version](https://badge.fury.io/js/ntl.svg)](https://npmjs.org/package/ytl)
-[![Build Status](https://travis-ci.org/ruyadorno/ntl.svg?branch=master)](https://travis-ci.org/ruyadorno/ntl)
-[![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/ruyadorno/ipt/master/LICENSE)
-[![Join the chat at https://gitter.im/ipipeto/Lobby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ipipeto/Lobby) -->
+[![NPM version](https://badge.fury.io/js/ytl.svg)](https://npmjs.org/package/ytl)
+[![Build Status](https://travis-ci.org/ruyadorno/ntl.svg?branch=master)](https://travis-ci.org/Muldoser/ytl)
+[![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/Muldoser/ytl/master/LICENSE)
 
 > Yarn Task List
 
 Interactive cli menu to list and run npm tasks with [yarn](https://yarnpkg.com/en/).
 
-Fork of [ntl](https://github.com/ruyadorno/ntl) and work in progress. Documentation etc. might not be accurate or up to date.
+***Note***: Fork of [ntl](https://github.com/ruyadorno/ntl) and work in progress. Documentation etc. might not be accurate or up to date (demo gif for example ).
 
 ![demo gif](http://i.imgur.com/ZjjQ7Vi.gif?1)
 

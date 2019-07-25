@@ -30,7 +30,11 @@
     "ntl",
     "ytl",
     "runner",
-    "menu"
+    "menu",
+    "script",
+    "overview",
+    "select",
+    "run"
   ],
   "dependencies": {
     "ipt": "^2.1.1",
