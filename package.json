@@ -1,6 +1,6 @@
 {
   "name": "ytl",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Yarn Task List: Interactive cli menu to list/run npm tasks with yarn",
   "repository": "Muldoser/ytl",
   "author": {
@@ -13,7 +13,8 @@
   },
   "scripts": {
     "pretest": "eslint cli.js test/index.js",
-    "test": "ava --tap"
+    "test": "ava --tap",
+    "release": "standard-version"
   },
   "files": [
     "cli.js"
@@ -47,6 +48,7 @@
     "eslint": "^5.15.2",
     "eslint-config-prettier": "^4.1.0",
     "prettier": "^1.11.1",
+    "standard-version": "^6.0.1",
     "tempdir": "^2.0.0",
     "tempfile": "^2.0.0"
   },
